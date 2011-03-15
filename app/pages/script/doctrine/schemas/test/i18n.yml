@@ -1,0 +1,9 @@
+i18n:
+  tableName: i18n_test
+  package: test
+  actAs:
+    I18n:
+      fields: [fieldA, fieldB]
+  columns:
+    fieldA: string
+    fieldB: string

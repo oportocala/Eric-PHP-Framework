@@ -1,0 +1,41 @@
+detect_relations: true
+
+Place:
+ package: places
+ tableName: places
+ actAs:
+
+  Sluggable:
+   fields: [name]
+  I18n:
+   fields: [description, accesability]
+  Searchable:
+   fields: [name, description]
+  Blameable:
+  SoftDelete:
+  Timestampable:
+  Publishable:
+  NestedSet:
+ columns:
+   name: string(255)
+   description: string
+   accesability: string
+   state: 
+    type: enum
+    values: ['open', 'closed', 'vacation']
+   address_id: integer
+   schedule_id: integer
+   group_id: integer
+   contact_gr_id: integer
+ relations:
+   Address:
+   Contact:
+    class: Contact
+    foreign: gr_id
+    cascade: [delete]
+   Schedule:
+    class: PlaceSchedule
+    local: schedule_id
+   Group:
+    class: PlaceGroup
+    local: group_id

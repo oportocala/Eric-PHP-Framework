@@ -1,0 +1,6042 @@
+Street:
+ Street_1:
+  id: 1
+  name: "Azuga"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_2:
+  id: 2
+  name: "Bibliotecii"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_3:
+  id: 3
+  name: "Bizuşa"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_4:
+  id: 4
+  name: "Borsec"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_5:
+  id: 5
+  name: "Borşa"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_6:
+  id: 6
+  name: "Brateş"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_7:
+  id: 7
+  name: "Broşteni"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_8:
+  id: 8
+  name: "Bucura"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_9:
+  id: 9
+  name: "Budai Nagy Antal"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_10:
+  id: 10
+  name: "Buşteni"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_11:
+  id: 11
+  name: "Bâlea"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_12:
+  id: 12
+  name: "Bârsei"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_13:
+  id: 13
+  name: "Băişoara"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_14:
+  id: 14
+  name: "Băiţa"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_15:
+  id: 15
+  name: "Calistrat Hogaş"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_16:
+  id: 16
+  name: "Cioplea"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_17:
+  id: 17
+  name: "Ciucaş"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_18:
+  id: 18
+  name: "Clăbucet"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_19:
+  id: 19
+  name: "Cozia"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_20:
+  id: 20
+  name: "Crăiţelor"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_21:
+  id: 21
+  name: "Detunata"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_22:
+  id: 22
+  name: "Eclipsei"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_23:
+  id: 23
+  name: "Erou Martir Călin Alexandru Nemeş"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_24:
+  id: 24
+  name: "Firiza"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_25:
+  id: 25
+  name: "Gala Galaction"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_26:
+  id: 26
+  name: "George Topârceanu"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_27:
+  id: 27
+  name: "Godeanu"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_28:
+  id: 28
+  name: "Gogu Constantinescu"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_29:
+  id: 29
+  name: "Gurghiu"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_30:
+  id: 30
+  name: "Aleea Gârbău"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_31:
+  id: 31
+  name: "Herculane"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_32:
+  id: 32
+  name: "Horezu"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_33:
+  id: 33
+  name: "Iezer"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_34:
+  id: 34
+  name: "Lipova"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_35:
+  id: 35
+  name: "Magnoliei"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_36:
+  id: 36
+  name: "Marin Preda"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_37:
+  id: 37
+  name: "Meseş"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_38:
+  id: 38
+  name: "Mestecenilor"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_39:
+  id: 39
+  name: "Meziad"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_40:
+  id: 40
+  name: "Micuş"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_41:
+  id: 41
+  name: "Mihail Sadoveanu"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_42:
+  id: 42
+  name: "Moldoveanu"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_43:
+  id: 43
+  name: "Muscel"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_44:
+  id: 44
+  name: "Muzeului Etnografic"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_45:
+  id: 45
+  name: "Muzicii"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_46:
+  id: 46
+  name: "Negoiu"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_47:
+  id: 47
+  name: "Neptun"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_48:
+  id: 48
+  name: "Orhideei"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_49:
+  id: 49
+  name: "Padin"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_50:
+  id: 50
+  name: "Padiş"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_51:
+  id: 51
+  name: "Paltinului"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_52:
+  id: 52
+  name: "Peana"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_53:
+  id: 53
+  name: "Pinului"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_54:
+  id: 54
+  name: "Profesor I. T. Stan"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_55:
+  id: 55
+  name: "Profesor Valeriu Bologa"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_56:
+  id: 56
+  name: "Putna"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_57:
+  id: 57
+  name: "Retezat"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_58:
+  id: 58
+  name: "Rucăr"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_59:
+  id: 59
+  name: "Răşinari"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_60:
+  id: 60
+  name: "Scărilor"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_61:
+  id: 61
+  name: "Scărişoara"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_62:
+  id: 62
+  name: "Slănic"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_63:
+  id: 63
+  name: "Snagov"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_64:
+  id: 64
+  name: "Stadionului"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_65:
+  id: 65
+  name: "Studenţilor"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_66:
+  id: 66
+  name: "Tarniţa"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_67:
+  id: 67
+  name: "Tazlău"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_68:
+  id: 68
+  name: "Uranus"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_69:
+  id: 69
+  name: "Veteranilor"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_70:
+  id: 70
+  name: "Vidraru"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_71:
+  id: 71
+  name: "Violetelor"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_72:
+  id: 72
+  name: "Văleni"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_73:
+  id: 73
+  name: "Zaharia Stancu"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_74:
+  id: 74
+  name: "Învăţătorului"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_75:
+  id: 75
+  name: "1 Decembrie 1918"
+  prefix: "Bulevardul"
+  short_prefix: "Bd."
+
+ Street_76:
+  id: 76
+  name: "21 Decembrie 1989"
+  prefix: "Bulevardul"
+  short_prefix: "Bd."
+
+ Street_77:
+  id: 77
+  name: "Eroilor"
+  prefix: "Bulevardul"
+  short_prefix: "Bd."
+
+ Street_78:
+  id: 78
+  name: "Muncii"
+  prefix: "Bulevardul"
+  short_prefix: "Bd."
+
+ Street_79:
+  id: 79
+  name: "Nicolae Titulescu"
+  prefix: "Bulevardul"
+  short_prefix: "Bd."
+
+ Street_80:
+  id: 80
+  name: "Baciului"
+  prefix: "Calea"
+  short_prefix: "Calea"
+
+ Street_81:
+  id: 81
+  name: "Bucureşti"
+  prefix: "Calea"
+  short_prefix: "Calea"
+
+ Street_82:
+  id: 82
+  name: "Dezmirului"
+  prefix: "Calea"
+  short_prefix: "Calea"
+
+ Street_83:
+  id: 83
+  name: "Dorobanţilor"
+  prefix: "Calea"
+  short_prefix: "Calea"
+
+ Street_84:
+  id: 84
+  name: "Calea Floreşti"
+  prefix: "Calea"
+  short_prefix: "Calea"
+
+ Street_85:
+  id: 85
+  name: "Moţilor"
+  prefix: "Calea"
+  short_prefix: "Calea"
+
+ Street_86:
+  id: 86
+  name: "Mănăştur"
+  prefix: "Calea"
+  short_prefix: "Calea"
+
+ Street_87:
+  id: 87
+  name: "Someşeni"
+  prefix: "Calea"
+  short_prefix: "Calea"
+
+ Street_88:
+  id: 88
+  name: "Turzii"
+  prefix: "Calea"
+  short_prefix: "Calea"
+
+ Street_89:
+  id: 89
+  name: "Colonia Breaza"
+  prefix: "Colonia"
+  short_prefix: "Colonia"
+
+ Street_90:
+  id: 90
+  name: "Sopor"
+  prefix: "Colonia"
+  short_prefix: "Colonia"
+
+ Street_91:
+  id: 91
+  name: "Sf. Ioan"
+  prefix: "Drumul"
+  short_prefix: "Dr."
+
+ Street_92:
+  id: 92
+  name: "Oaşului"
+  prefix: "Fundătura"
+  short_prefix: "Fundătura"
+
+ Street_93:
+  id: 93
+  name: "Horea, Cloşca şi Crişan"
+  prefix: "Piaţa"
+  short_prefix: "Piaţa"
+
+ Street_94:
+  id: 94
+  name: "Karl Liebknecht"
+  prefix: "Piaţa"
+  short_prefix: "Piaţa"
+
+ Street_95:
+  id: 95
+  name: "1 Mai"
+  prefix: "Piaţa"
+  short_prefix: "Piaţa"
+
+ Street_96:
+  id: 96
+  name: "14 Iulie"
+  prefix: "Piaţa"
+  short_prefix: "Piaţa"
+
+ Street_97:
+  id: 97
+  name: "1848"
+  prefix: "Piaţa"
+  short_prefix: "Piaţa"
+
+ Street_98:
+  id: 98
+  name: "1907"
+  prefix: "Piaţa"
+  short_prefix: "Piaţa"
+
+ Street_99:
+  id: 99
+  name: "Abator"
+  prefix: "Piaţa"
+  short_prefix: "Piaţa"
+
+ Street_100:
+  id: 100
+  name: "Avram Iancu"
+  prefix: "Piaţa"
+  short_prefix: "Piaţa"
+
+ Street_101:
+  id: 101
+  name: "Baba Novac"
+  prefix: "Piaţa"
+  short_prefix: "Piaţa"
+
+ Street_102:
+  id: 102
+  name: "Fraternităţii"
+  prefix: "Piaţa"
+  short_prefix: "Piaţa"
+
+ Street_103:
+  id: 103
+  name: "Gării"
+  prefix: "Piaţa"
+  short_prefix: "Piaţa"
+
+ Street_104:
+  id: 104
+  name: "Ion Agârbiceanu"
+  prefix: "Piaţa"
+  short_prefix: "Piaţa"
+
+ Street_105:
+  id: 105
+  name: "Lucian Blaga"
+  prefix: "Piaţa"
+  short_prefix: "Piaţa"
+
+ Street_106:
+  id: 106
+  name: "Mihai Viteazu"
+  prefix: "Piaţa"
+  short_prefix: "Piaţa"
+
+ Street_107:
+  id: 107
+  name: "Muzeului"
+  prefix: "Piaţa"
+  short_prefix: "Piaţa"
+
+ Street_108:
+  id: 108
+  name: "Mărăşti"
+  prefix: "Piaţa"
+  short_prefix: "Piaţa"
+
+ Street_109:
+  id: 109
+  name: "Timotei Cipariu"
+  prefix: "Piaţa"
+  short_prefix: "Piaţa"
+
+ Street_110:
+  id: 110
+  name: "Unirii"
+  prefix: "Piaţa"
+  short_prefix: "Piaţa"
+
+ Street_111:
+  id: 111
+  name: "Ştefan cel Mare"
+  prefix: "Piaţa"
+  short_prefix: "Piaţa"
+
+ Street_112:
+  id: 112
+  name: "Splaiul Independenţei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_113:
+  id: 113
+  name: "11 Octombrie"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_114:
+  id: 114
+  name: "13 Septembrie"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_115:
+  id: 115
+  name: "16 Februarie"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_116:
+  id: 116
+  name: "A. E. Baconsky"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_117:
+  id: 117
+  name: "Abrudului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_118:
+  id: 118
+  name: "Academician David Prodan"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_119:
+  id: 119
+  name: "Actorului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_120:
+  id: 120
+  name: "Adjudului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_121:
+  id: 121
+  name: "Adrian Marino"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_122:
+  id: 122
+  name: "Ady Endre"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_123:
+  id: 123
+  name: "Agricultorilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_124:
+  id: 124
+  name: "Agronomilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_125:
+  id: 125
+  name: "Aiudului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_126:
+  id: 126
+  name: "Alba Iulia"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_127:
+  id: 127
+  name: "Albac"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_128:
+  id: 128
+  name: "Albert Einstein"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_129:
+  id: 129
+  name: "Albiei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_130:
+  id: 130
+  name: "Alecu Russo"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_131:
+  id: 131
+  name: "Alexandre Dumas"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_132:
+  id: 132
+  name: "Alexandru Bohăţiel"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_133:
+  id: 133
+  name: "Alexandru Borza"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_134:
+  id: 134
+  name: "Alexandru Ciurea"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_135:
+  id: 135
+  name: "Alexandru D. Xenopol"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_136:
+  id: 136
+  name: "Alexandru Davila"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_137:
+  id: 137
+  name: "Alexandru Donici"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_138:
+  id: 138
+  name: "Alexandru Graur"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_139:
+  id: 139
+  name: "Alexandru Macedonski"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_140:
+  id: 140
+  name: "Alexandru Odobescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_141:
+  id: 141
+  name: "Alexandru Roşca"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_142:
+  id: 142
+  name: "Alexandru Sahia"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_143:
+  id: 143
+  name: "Alexandru Vaida Voevod"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_144:
+  id: 144
+  name: "Alexandru Vlahuţă"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_145:
+  id: 145
+  name: "Aleşd"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_146:
+  id: 146
+  name: "Almaşului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_147:
+  id: 147
+  name: "Alunului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_148:
+  id: 148
+  name: "Alverna"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_149:
+  id: 149
+  name: "Ametistului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_150:
+  id: 150
+  name: "Amos Frâncu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_151:
+  id: 151
+  name: "Ana Aslan"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_152:
+  id: 152
+  name: "Ana Ipătescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_153:
+  id: 153
+  name: "Anatole France"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_154:
+  id: 154
+  name: "Andrei Mureşanu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_155:
+  id: 155
+  name: "Andrei Şaguna"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_156:
+  id: 156
+  name: "Anghel Saligny"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_157:
+  id: 157
+  name: "Anina"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_158:
+  id: 158
+  name: "Antim Ivireanu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_159:
+  id: 159
+  name: "Anton Pann"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_160:
+  id: 160
+  name: "Antonio Gaudi"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_161:
+  id: 161
+  name: "Apahida"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_162:
+  id: 162
+  name: "Arad"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_163:
+  id: 163
+  name: "Aramei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_164:
+  id: 164
+  name: "Arany János"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_165:
+  id: 165
+  name: "Argeş"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_166:
+  id: 166
+  name: "Argintului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_167:
+  id: 167
+  name: "Arieşului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_168:
+  id: 168
+  name: "Arinilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_169:
+  id: 169
+  name: "Aron Densuşianu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_170:
+  id: 170
+  name: "Aron Pumnul"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_171:
+  id: 171
+  name: "Artelor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_172:
+  id: 172
+  name: "Arţarului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_173:
+  id: 173
+  name: "Atelierului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_174:
+  id: 174
+  name: "August Treboniu Laurian"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_175:
+  id: 175
+  name: "Augustin Bena"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_176:
+  id: 176
+  name: "Augustin Bunea"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_177:
+  id: 177
+  name: "Augustin Maior"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_178:
+  id: 178
+  name: "Aurel Ciupe"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_179:
+  id: 179
+  name: "Aurel Gurghianu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_180:
+  id: 180
+  name: "Aurel Suciu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_181:
+  id: 181
+  name: "Aurel Vlaicu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_182:
+  id: 182
+  name: "Aurorei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_183:
+  id: 183
+  name: "Aviator Bădescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_184:
+  id: 184
+  name: "Aviator Ioan Pop de Cluj"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_185:
+  id: 185
+  name: "Aviator Traian Dârjan"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_186:
+  id: 186
+  name: "Aviatorilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_187:
+  id: 187
+  name: "Avram Iancu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_188:
+  id: 188
+  name: "Axente Sever"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_189:
+  id: 189
+  name: "Baba Novac"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_190:
+  id: 190
+  name: "Badea Cârţan"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_191:
+  id: 191
+  name: "Baia Mare"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_192:
+  id: 192
+  name: "Baladei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_193:
+  id: 193
+  name: "Banatului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_194:
+  id: 194
+  name: "Banilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_195:
+  id: 195
+  name: "Banul Udrea"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_196:
+  id: 196
+  name: "Barbu Lăutaru"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_197:
+  id: 197
+  name: "Barbu Ştefănescu Delavrancea"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_198:
+  id: 198
+  name: "Bartók Béla"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_199:
+  id: 199
+  name: "Basarabia"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_200:
+  id: 200
+  name: "Batozei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_201:
+  id: 201
+  name: "Bazna"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_202:
+  id: 202
+  name: "Becaş"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_203:
+  id: 203
+  name: "Beclean"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_204:
+  id: 204
+  name: "Bega"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_205:
+  id: 205
+  name: "Beiuşului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_206:
+  id: 206
+  name: "Belgradului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_207:
+  id: 207
+  name: "Berăriei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_208:
+  id: 208
+  name: "Bethlen Gábor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_209:
+  id: 209
+  name: "Bihorului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_210:
+  id: 210
+  name: "Bisericii Ortodoxe"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_211:
+  id: 211
+  name: "Bisericii Sf. Toma"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_212:
+  id: 212
+  name: "Bistriţei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_213:
+  id: 213
+  name: "Blajului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_214:
+  id: 214
+  name: "Blănarilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_215:
+  id: 215
+  name: "Bobâlnei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_216:
+  id: 216
+  name: "Bocskai István"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_217:
+  id: 217
+  name: "Bogdan Petriceicu Haşdeu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_218:
+  id: 218
+  name: "Bogdan Vodă"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_219:
+  id: 219
+  name: "Bolyai János"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_220:
+  id: 220
+  name: "Borhanciului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_221:
+  id: 221
+  name: "Bradului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_222:
+  id: 222
+  name: "Branului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_223:
+  id: 223
+  name: "Brassai Sámuel"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_224:
+  id: 224
+  name: "Braşov"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_225:
+  id: 225
+  name: "Breaza"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_226:
+  id: 226
+  name: "Brigadierilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_227:
+  id: 227
+  name: "Brizei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_228:
+  id: 228
+  name: "Brutarilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_229:
+  id: 229
+  name: "Brânduşelor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_230:
+  id: 230
+  name: "Brăduţului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_231:
+  id: 231
+  name: "Bucegi"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_232:
+  id: 232
+  name: "Bucium"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_233:
+  id: 233
+  name: "Bucovina"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_234:
+  id: 234
+  name: "Buftea"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_235:
+  id: 235
+  name: "Buhuşi"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_236:
+  id: 236
+  name: "Bujorului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_237:
+  id: 237
+  name: "Bulgarilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_238:
+  id: 238
+  name: "Bumbeşti"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_239:
+  id: 239
+  name: "Bună Ziua"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_240:
+  id: 240
+  name: "Burebista"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_241:
+  id: 241
+  name: "Busuiocului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_242:
+  id: 242
+  name: "Buzău"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_243:
+  id: 243
+  name: "Báthory István"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_244:
+  id: 244
+  name: "Băii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_245:
+  id: 245
+  name: "Bălţii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_246:
+  id: 246
+  name: "Bărc I"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_247:
+  id: 247
+  name: "Bărc II"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_248:
+  id: 248
+  name: "Bărc III"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_249:
+  id: 249
+  name: "C. A. Rosetti"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_250:
+  id: 250
+  name: "Caisului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_251:
+  id: 251
+  name: "Caius Iacob"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_252:
+  id: 252
+  name: "Callatis"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_253:
+  id: 253
+  name: "Cameliei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_254:
+  id: 254
+  name: "Camil Petrescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_255:
+  id: 255
+  name: "Cantonului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_256:
+  id: 256
+  name: "Caracal"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_257:
+  id: 257
+  name: "Caraiman"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_258:
+  id: 258
+  name: "Caransebeş"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_259:
+  id: 259
+  name: "Cardinal Iuliu Hossu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_260:
+  id: 260
+  name: "Carierei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_261:
+  id: 261
+  name: "Carmen Silva"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_262:
+  id: 262
+  name: "Carol Davila"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_263:
+  id: 263
+  name: "Carpaţi"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_264:
+  id: 264
+  name: "Carpenului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_265:
+  id: 265
+  name: "Castanilor"
+  prefix: "Aleea"
+  short_prefix: "Al."
+
+ Street_266:
+  id: 266
+  name: "Ceahlău"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_267:
+  id: 267
+  name: "Cedrului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_268:
+  id: 268
+  name: "Ceferiştilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_269:
+  id: 269
+  name: "Cepei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_270:
+  id: 270
+  name: "Cerbului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_271:
+  id: 271
+  name: "Cernavodă"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_272:
+  id: 272
+  name: "Cernei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_273:
+  id: 273
+  name: "Cetinei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_274:
+  id: 274
+  name: "Cetăţii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_275:
+  id: 275
+  name: "Cezar Baltag"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_276:
+  id: 276
+  name: "Cezar Petrescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_277:
+  id: 277
+  name: "Chinteni"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_278:
+  id: 278
+  name: "Cibinului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_279:
+  id: 279
+  name: "Ciobanului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_280:
+  id: 280
+  name: "Ciocanului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_281:
+  id: 281
+  name: "Ciocârliei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_282:
+  id: 282
+  name: "Ciprian Porumbescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_283:
+  id: 283
+  name: "Cireşilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_284:
+  id: 284
+  name: "Ciucea"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_285:
+  id: 285
+  name: "Cişmigiu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_286:
+  id: 286
+  name: "Clinicilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_287:
+  id: 287
+  name: "Clopoţeilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_288:
+  id: 288
+  name: "Cloşca"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_289:
+  id: 289
+  name: "Coastei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_290:
+  id: 290
+  name: "Cobzarilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_291:
+  id: 291
+  name: "Cocorilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_292:
+  id: 292
+  name: "Codlea"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_293:
+  id: 293
+  name: "Codru Drăguşanu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_294:
+  id: 294
+  name: "Codrului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_295:
+  id: 295
+  name: "Cojocnei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_296:
+  id: 296
+  name: "Colibiţa"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_297:
+  id: 297
+  name: "Colinei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_298:
+  id: 298
+  name: "Cometei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_299:
+  id: 299
+  name: "Conductorilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_300:
+  id: 300
+  name: "Constantin Brâncoveanu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_301:
+  id: 301
+  name: "Constantin Brâncuşi"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_302:
+  id: 302
+  name: "Constantin Brăiloiu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_303:
+  id: 303
+  name: "Constantin C. Diculescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_304:
+  id: 304
+  name: "Constantin Daicoviciu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_305:
+  id: 305
+  name: "Constantin Dobrogeanu Gherea"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_306:
+  id: 306
+  name: "Constantin Noica"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_307:
+  id: 307
+  name: "Constantin Nottara"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_308:
+  id: 308
+  name: "Constanţa"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_309:
+  id: 309
+  name: "Copacilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_310:
+  id: 310
+  name: "Corneliu Coposu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_311:
+  id: 311
+  name: "Cornului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_312:
+  id: 312
+  name: "Cosaşilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_313:
+  id: 313
+  name: "Cosminului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_314:
+  id: 314
+  name: "Costache Negri"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_315:
+  id: 315
+  name: "Costache Negruzzi"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_316:
+  id: 316
+  name: "Cotită"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_317:
+  id: 317
+  name: "Craiova"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_318:
+  id: 318
+  name: "Crinului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_319:
+  id: 319
+  name: "Crizantemelor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_320:
+  id: 320
+  name: "Crişan"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_321:
+  id: 321
+  name: "Crişului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_322:
+  id: 322
+  name: "Croitorilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_323:
+  id: 323
+  name: "Crângului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_324:
+  id: 324
+  name: "Cucului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_325:
+  id: 325
+  name: "Curcubeului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_326:
+  id: 326
+  name: "Cuza Vodă"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_327:
+  id: 327
+  name: "Câmpeni"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_328:
+  id: 328
+  name: "Câmpina"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_329:
+  id: 329
+  name: "Câmpul Pâinii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_330:
+  id: 330
+  name: "Câmpului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_331:
+  id: 331
+  name: "Căii Ferate"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_332:
+  id: 332
+  name: "Călan"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_333:
+  id: 333
+  name: "Călimăneşti"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_334:
+  id: 334
+  name: "Călugăreni"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_335:
+  id: 335
+  name: "Călăraşilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_336:
+  id: 336
+  name: "Căpitan Grigore Ignat"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_337:
+  id: 337
+  name: "Căpşunilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_338:
+  id: 338
+  name: "Cărbunarilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_339:
+  id: 339
+  name: "Cărămidarilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_340:
+  id: 340
+  name: "Cătinei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_341:
+  id: 341
+  name: "D. D. Roşca"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_342:
+  id: 342
+  name: "Dacia"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_343:
+  id: 343
+  name: "Daliei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_344:
+  id: 344
+  name: "Daniil Bărceanu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_345:
+  id: 345
+  name: "Dealul Fânaţelor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_346:
+  id: 346
+  name: "Dealului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_347:
+  id: 347
+  name: "Decebal"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_348:
+  id: 348
+  name: "Dejului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_349:
+  id: 349
+  name: "Depoului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_350:
+  id: 350
+  name: "Deva"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_351:
+  id: 351
+  name: "Diaconu Coresi"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_352:
+  id: 352
+  name: "Diamantului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_353:
+  id: 353
+  name: "Dianei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_354:
+  id: 354
+  name: "Dimitri Ivanovici Mendeleev"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_355:
+  id: 355
+  name: "Dimitrie Bolintineanu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_356:
+  id: 356
+  name: "Dimitrie Cantemir"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_357:
+  id: 357
+  name: "Dimitrie Comşa"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_358:
+  id: 358
+  name: "Dimitrie Gusti"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_359:
+  id: 359
+  name: "Dimitrie Onciul"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_360:
+  id: 360
+  name: "Dimitrie Paciurea"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_361:
+  id: 361
+  name: "Dinicu Golescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_362:
+  id: 362
+  name: "Dionisie Roman"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_363:
+  id: 363
+  name: "Dobrogei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_364:
+  id: 364
+  name: "Doinei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_365:
+  id: 365
+  name: "Donath"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_366:
+  id: 366
+  name: "Dornei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_367:
+  id: 367
+  name: "Dorului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_368:
+  id: 368
+  name: "Dragoş Vodă"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_369:
+  id: 369
+  name: "Drapelului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_370:
+  id: 370
+  name: "Dropiei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_371:
+  id: 371
+  name: "Duiliu Zamfirescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_372:
+  id: 372
+  name: "Dumbrava Roşie"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_373:
+  id: 373
+  name: "Dumitru Braharu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_374:
+  id: 374
+  name: "Dunării"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_375:
+  id: 375
+  name: "Dávid Ferenc"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_376:
+  id: 376
+  name: "Dâmboviţei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_377:
+  id: 377
+  name: "Dâmbul Rotund"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_378:
+  id: 378
+  name: "Ecaterina Teodoroiu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_379:
+  id: 379
+  name: "Ecaterina Varga"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_380:
+  id: 380
+  name: "Edgar Quinet"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_381:
+  id: 381
+  name: "Eftimie Murgu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_382:
+  id: 382
+  name: "Elicei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_383:
+  id: 383
+  name: "Emerson"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_384:
+  id: 384
+  name: "Emil A. Dandea"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_385:
+  id: 385
+  name: "Emil Cioran"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_386:
+  id: 386
+  name: "Emil Isac"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_387:
+  id: 387
+  name: "Emil Petrovici"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_388:
+  id: 388
+  name: "Emil Racoviţă"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_389:
+  id: 389
+  name: "Emmanuel de Martonne"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_390:
+  id: 390
+  name: "Episcop Ioan Bob"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_391:
+  id: 391
+  name: "Episcop Márton Áron"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_392:
+  id: 392
+  name: "Erich Berger"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_393:
+  id: 393
+  name: "Erkel Ferenc"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_394:
+  id: 394
+  name: "Erou Martir Lucian Matiş"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_395:
+  id: 395
+  name: "Eta Boeriu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_396:
+  id: 396
+  name: "Eufrosin "
+  prefix: "Poteca"
+  short_prefix: "Poteca"
+
+ Street_397:
+  id: 397
+  name: "Eugen Brote"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_398:
+  id: 398
+  name: "Eugen Ionesco"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_399:
+  id: 399
+  name: "Eugen Lovinescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_400:
+  id: 400
+  name: "F. M. Dostoievski"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_401:
+  id: 401
+  name: "Fabricii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_402:
+  id: 402
+  name: "Fabricii de Chibrituri"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_403:
+  id: 403
+  name: "Fabricii de Cărămidă"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_404:
+  id: 404
+  name: "Fabricii de Zahăr"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_405:
+  id: 405
+  name: "Fadrusz János"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_406:
+  id: 406
+  name: "Fagului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_407:
+  id: 407
+  name: "Fericirii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_408:
+  id: 408
+  name: "Ferigii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_409:
+  id: 409
+  name: "Ficusului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_410:
+  id: 410
+  name: "Fierului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_411:
+  id: 411
+  name: "Florian Aron"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_412:
+  id: 412
+  name: "Florilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_413:
+  id: 413
+  name: "Fluieraşului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_414:
+  id: 414
+  name: "Fluturilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_415:
+  id: 415
+  name: "Foişorului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_416:
+  id: 416
+  name: "Fortăreţei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_417:
+  id: 417
+  name: "Franklin Delano Roosevelt"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_418:
+  id: 418
+  name: "Franz Liszt"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_419:
+  id: 419
+  name: "Frasinului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_420:
+  id: 420
+  name: "Frederic Joliot Curie"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_421:
+  id: 421
+  name: "Freziei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_422:
+  id: 422
+  name: "Frumoasă"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_423:
+  id: 423
+  name: "Frunzişului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_424:
+  id: 424
+  name: "Frunzişului (Varianta Mănăştur Zorilor)"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_425:
+  id: 425
+  name: "Fundătura"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_426:
+  id: 426
+  name: "Fânaţelor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_427:
+  id: 427
+  name: "Fântânele"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_428:
+  id: 428
+  name: "Fânului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_429:
+  id: 429
+  name: "Făgetului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_430:
+  id: 430
+  name: "Făgăraşului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_431:
+  id: 431
+  name: "Făt Frumos"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_432:
+  id: 432
+  name: "G. V. Bibescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_433:
+  id: 433
+  name: "Galaction Liviu Munteanu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_434:
+  id: 434
+  name: "Galaxiei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_435:
+  id: 435
+  name: "Galaţi"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_436:
+  id: 436
+  name: "Galileo Galilei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_437:
+  id: 437
+  name: "Garoafelor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_438:
+  id: 438
+  name: "Gavril Muzicescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_439:
+  id: 439
+  name: "Gaál Gábor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_440:
+  id: 440
+  name: "General Dragalina"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_441:
+  id: 441
+  name: "General Eremia Grigorescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_442:
+  id: 442
+  name: "General Gheorghe Pomuţ"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_443:
+  id: 443
+  name: "General Traian Moşoiu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_444:
+  id: 444
+  name: "Genţianei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_445:
+  id: 445
+  name: "Georg Wilhelm Friedrich Hegel"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_446:
+  id: 446
+  name: "George Bacovia"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_447:
+  id: 447
+  name: "George Bariţiu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_448:
+  id: 448
+  name: "George Coşbuc"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_449:
+  id: 449
+  name: "George Călinescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_450:
+  id: 450
+  name: "George Enescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_451:
+  id: 451
+  name: "George Gordon Byron"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_452:
+  id: 452
+  name: "George Stephenson"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_453:
+  id: 453
+  name:  Georges Clemenceau"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_454:
+  id: 454
+  name: "Gheorghe Asachi"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_455:
+  id: 455
+  name: "Gheorghe Dima"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_456:
+  id: 456
+  name: "Gheorghe Doja"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_457:
+  id: 457
+  name: "Gheorghe Lazăr"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_458:
+  id: 458
+  name: "Gheorghe Marinescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_459:
+  id: 459
+  name: "Gheorghe Pop de Băseşti"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_460:
+  id: 460
+  name: "Gheorghe Sion"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_461:
+  id: 461
+  name: "Gheorghe Şincai"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_462:
+  id: 462
+  name: "Gherasim Domide"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_463:
+  id: 463
+  name: "Ghimeşului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_464:
+  id: 464
+  name: "Ghindei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_465:
+  id: 465
+  name: "Ghioceilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_466:
+  id: 466
+  name: "Giordano Bruno"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_467:
+  id: 467
+  name: "Giuseppe Garibaldi"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_468:
+  id: 468
+  name: "Gladiolelor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_469:
+  id: 469
+  name: "Gorunului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_470:
+  id: 470
+  name: "Gospodarilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_471:
+  id: 471
+  name: "Govora"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_472:
+  id: 472
+  name: "Grapei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_473:
+  id: 473
+  name: "Graurilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_474:
+  id: 474
+  name: "Grigore Alexandrescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_475:
+  id: 475
+  name: "Grigore Antipa"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_476:
+  id: 476
+  name: "Grigore Benetato"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_477:
+  id: 477
+  name: "Grigore Moisil"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_478:
+  id: 478
+  name: "Grigore Ureche"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_479:
+  id: 479
+  name: "Griviţei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_480:
+  id: 480
+  name: "Gruia"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_481:
+  id: 481
+  name: "Grâului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_482:
+  id: 482
+  name: "Grădinarilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_483:
+  id: 483
+  name: "Gutinului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_484:
+  id: 484
+  name: "Gălbenelelor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_485:
+  id: 485
+  name: "Gării"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_486:
+  id: 486
+  name: "Haiducului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_487:
+  id: 487
+  name: "Haller Károly"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_488:
+  id: 488
+  name: "Hameiului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_489:
+  id: 489
+  name: "Harghita"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_490:
+  id: 490
+  name: "Haţeg"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_491:
+  id: 491
+  name: "Heinrich Heine"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_492:
+  id: 492
+  name: "Heltai Gáspár"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_493:
+  id: 493
+  name: "Henri Barbusse"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_494:
+  id: 494
+  name: "Henri Coandă"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_495:
+  id: 495
+  name: "Hermann Oberth"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_496:
+  id: 496
+  name: "Hodăi"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_497:
+  id: 497
+  name: "Honoré de Balzac"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_498:
+  id: 498
+  name: "Horea"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_499:
+  id: 499
+  name: "Horticultorilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_500:
+  id: 500
+  name: "Huedinului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_501:
+  id: 501
+  name: "Hunedoarei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_502:
+  id: 502
+  name: "Hârleţului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_503:
+  id: 503
+  name: "Iacob Bologa"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_504:
+  id: 504
+  name: "Ialomiţei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_505:
+  id: 505
+  name: "Iancu Jianu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_506:
+  id: 506
+  name: "Iancu de Hunedoara"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_507:
+  id: 507
+  name: "Iasomiei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_508:
+  id: 508
+  name: "Iazului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_509:
+  id: 509
+  name: "Iaşilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_510:
+  id: 510
+  name: "Iederei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_511:
+  id: 511
+  name: "Ierbii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_512:
+  id: 512
+  name: "Ilarie Chendi"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_513:
+  id: 513
+  name: "Ileana Cosânzeana"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_514:
+  id: 514
+  name: "Ilie Măcelaru"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_515:
+  id: 515
+  name: "Inocenţiu Micu Klein"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_516:
+  id: 516
+  name: "Inului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_517:
+  id: 517
+  name: "Inău"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_518:
+  id: 518
+  name: "Ioan Alexandru"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_519:
+  id: 519
+  name: "Ioan Budai Deleanu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_520:
+  id: 520
+  name: "Ioan Buteanu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_521:
+  id: 521
+  name: "Ioan Goia"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_522:
+  id: 522
+  name: "Ioan Iacob"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_523:
+  id: 523
+  name: "Ioan Oargă"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_524:
+  id: 524
+  name: "Ioan Pop Reteganu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_525:
+  id: 525
+  name: "Ioan Raţiu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_526:
+  id: 526
+  name: "Ioan Slavici"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_527:
+  id: 527
+  name: "Ion Andreescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_528:
+  id: 528
+  name: "Ion Breazu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_529:
+  id: 529
+  name: "Ion Creangă"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_530:
+  id: 530
+  name: "Ion Ghica"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_531:
+  id: 531
+  name: "Ion Heliade Rădulescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_532:
+  id: 532
+  name: "Ion I. C. Brătianu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_533:
+  id: 533
+  name: "Ion Ionescu de la Brad"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_534:
+  id: 534
+  name: "Ion Luca Caragiale"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_535:
+  id: 535
+  name: "Ion Meşter"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_536:
+  id: 536
+  name: "Ion Mihalache"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_537:
+  id: 537
+  name: "Ion Mincu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_538:
+  id: 538
+  name: "Ion Neculce"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_539:
+  id: 539
+  name: "Ion Negoiţescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_540:
+  id: 540
+  name: "Ion Popescu Voiteşti"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_541:
+  id: 541
+  name: "Ion Vidu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_542:
+  id: 542
+  name: "Ion Viteazu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_543:
+  id: 543
+  name: "Ionel Perlea"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_544:
+  id: 544
+  name: "Ionel Teodoreanu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_545:
+  id: 545
+  name: "Iosif Vulcan"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_546:
+  id: 546
+  name: "Iris"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_547:
+  id: 547
+  name: "Isaac Newton"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_548:
+  id: 548
+  name: "Iugoslaviei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_549:
+  id: 549
+  name: "Iuliu Coroianu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_550:
+  id: 550
+  name: "Iuliu Haţieganu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_551:
+  id: 551
+  name: "Iuliu Maniu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_552:
+  id: 552
+  name: "Iuliu Merca"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_553:
+  id: 553
+  name: "Iuliu Micsa"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_554:
+  id: 554
+  name: "Iuliu Moldovan"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_555:
+  id: 555
+  name: "Izei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_556:
+  id: 556
+  name: "Izlazului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_557:
+  id: 557
+  name: "Izvorului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_558:
+  id: 558
+  name: "Jan Hus"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_559:
+  id: 559
+  name: "Jean Jacques Rousseau"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_560:
+  id: 560
+  name: "Jean Jaures"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_561:
+  id: 561
+  name: "Jiului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_562:
+  id: 562
+  name: "Johannes Guttenberg"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_563:
+  id: 563
+  name: "Jules Verne"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_564:
+  id: 564
+  name: "Jupiter"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_565:
+  id: 565
+  name: "János Zsigmond"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_566:
+  id: 566
+  name: "Jókai Mór"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_567:
+  id: 567
+  name: "József Attila"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_568:
+  id: 568
+  name: "Kelemen Lajos"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_569:
+  id: 569
+  name: "Kovács Dezső"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_570:
+  id: 570
+  name: "Kós Károly"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_571:
+  id: 571
+  name: "Kővári László"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_572:
+  id: 572
+  name: "Lacul Roşu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_573:
+  id: 573
+  name: "Lacului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_574:
+  id: 574
+  name: "Lalelelor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_575:
+  id: 575
+  name: "Laterală"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_576:
+  id: 576
+  name: "Lemnului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_577:
+  id: 577
+  name: "Leonard Mociulski"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_578:
+  id: 578
+  name: "Leonardo da Vinci"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_579:
+  id: 579
+  name: "Libelulei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_580:
+  id: 580
+  name: "Liliacului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_581:
+  id: 581
+  name: "Liniştii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_582:
+  id: 582
+  name: "Livezeni"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_583:
+  id: 583
+  name: "Livezii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_584:
+  id: 584
+  name: "Liviu Rebreanu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_585:
+  id: 585
+  name: "Liviu Rusu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_586:
+  id: 586
+  name: "Locomotivei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_587:
+  id: 587
+  name: "Lombului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_588:
+  id: 588
+  name: "Lotrului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_589:
+  id: 589
+  name: "Louis Pasteur"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_590:
+  id: 590
+  name: "Luceafărului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_591:
+  id: 591
+  name: "Lucernei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_592:
+  id: 592
+  name: "Ludwig van Beethoven"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_593:
+  id: 593
+  name: "Luminii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_594:
+  id: 594
+  name: "Luncii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_595:
+  id: 595
+  name: "Lunetei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_596:
+  id: 596
+  name: "Lunii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_597:
+  id: 597
+  name: "Lutoasă"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_598:
+  id: 598
+  name: "Lăcrămioarelor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_599:
+  id: 599
+  name: "Lăcătuşului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_600:
+  id: 600
+  name: "Lăpuşului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_601:
+  id: 601
+  name: "Macului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_602:
+  id: 602
+  name: "Madách Imre"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_603:
+  id: 603
+  name: "Magaziei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_604:
+  id: 604
+  name: "Mamaia"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_605:
+  id: 605
+  name: "Maramureşului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_606:
+  id: 606
+  name: "Margaretelor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_607:
+  id: 607
+  name: "Marghitei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_608:
+  id: 608
+  name: "Marin Sorescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_609:
+  id: 609
+  name: "Martin Opitz"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_610:
+  id: 610
+  name: "Matei Basarab"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_611:
+  id: 611
+  name: "Matei Corvin"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_612:
+  id: 612
+  name: "Matei Millo"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_613:
+  id: 613
+  name: "Mecanicilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_614:
+  id: 614
+  name: "Mediaş"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_615:
+  id: 615
+  name: "Mehedinţi"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_616:
+  id: 616
+  name: "Memorandumului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_617:
+  id: 617
+  name: "Meseriilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_618:
+  id: 618
+  name: "Metalului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_619:
+  id: 619
+  name: "Meteor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_620:
+  id: 620
+  name: "Meşterul Manole"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_621:
+  id: 621
+  name: "Mierlei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_622:
+  id: 622
+  name: "Migdalului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_623:
+  id: 623
+  name: "Mihai Eminescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_624:
+  id: 624
+  name: "Mihai Românu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_625:
+  id: 625
+  name: "Mihai Veliciu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_626:
+  id: 626
+  name: "Mihail Kogălniceanu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_627:
+  id: 627
+  name: "Mihail Sebastian"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_628:
+  id: 628
+  name: "Mikszáth Kálmán"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_629:
+  id: 629
+  name: "Mikó Imre"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_630:
+  id: 630
+  name: "Milcov"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_631:
+  id: 631
+  name: "Milton Lehrer"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_632:
+  id: 632
+  name: "Minerilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_633:
+  id: 633
+  name: "Mioriţei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_634:
+  id: 634
+  name: "Miraslău"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_635:
+  id: 635
+  name: "Mircea Eliade"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_636:
+  id: 636
+  name: "Mircea Zaciu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_637:
+  id: 637
+  name: "Mircea cel Bătrân"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_638:
+  id: 638
+  name: "Miron Costin"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_639:
+  id: 639
+  name: "Mirăslău"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_640:
+  id: 640
+  name: "Mistralului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_641:
+  id: 641
+  name: "Mitropolit Nicolae Colan"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_642:
+  id: 642
+  name: "Mogoşoaia"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_643:
+  id: 643
+  name: "Moise Nicoară"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_644:
+  id: 644
+  name: "Moldovei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_645:
+  id: 645
+  name: "Molidului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_646:
+  id: 646
+  name: "Molnar Piuariu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_647:
+  id: 647
+  name: "Morarilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_648:
+  id: 648
+  name: "Morii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_649:
+  id: 649
+  name: "Movilei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_650:
+  id: 650
+  name: "Moş Ion Roată"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_651:
+  id: 651
+  name: "Mugurilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_652:
+  id: 652
+  name: "Muncitorilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_653:
+  id: 653
+  name: "Munteniei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_654:
+  id: 654
+  name: "Mureşului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_655:
+  id: 655
+  name: "Mátyás Mátyás"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_656:
+  id: 656
+  name: "Móricz Zsigmond"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_657:
+  id: 657
+  name: "Măceşului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_658:
+  id: 658
+  name: "Măcinului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_659:
+  id: 659
+  name: "Mălinului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_660:
+  id: 660
+  name: "Mărginaşă"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_661:
+  id: 661
+  name: "Mărgăritarilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_662:
+  id: 662
+  name: "Mărgăului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_663:
+  id: 663
+  name: "Mărişel"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_664:
+  id: 664
+  name: "Mărului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_665:
+  id: 665
+  name: "Mărăşeşti"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_666:
+  id: 666
+  name: "Napoca"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_667:
+  id: 667
+  name: "Narciselor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_668:
+  id: 668
+  name: "Neagră"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_669:
+  id: 669
+  name: "Nichita Stănescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_670:
+  id: 670
+  name: "Nicolae Bălcescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_671:
+  id: 671
+  name: "Nicolae Cajal"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_672:
+  id: 672
+  name: "Nicolae Corcheş"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_673:
+  id: 673
+  name: "Nicolae Cristea"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_674:
+  id: 674
+  name: "Nicolae Drăganu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_675:
+  id: 675
+  name: "Nicolae Iorga"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_676:
+  id: 676
+  name: "Nicolae Labiş"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_677:
+  id: 677
+  name: "Nicolae Pascaly"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_678:
+  id: 678
+  name: "Nicolae Pătraşcu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_679:
+  id: 679
+  name: "Nicolae Românul"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_680:
+  id: 680
+  name: "Nicolae Steinhardt"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_681:
+  id: 681
+  name: "Nicolae Teclu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_682:
+  id: 682
+  name: "Nicolae Tonitza"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_683:
+  id: 683
+  name: "Nicolaus Copernicus"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_684:
+  id: 684
+  name: "Nirajului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_685:
+  id: 685
+  name: "Nordului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_686:
+  id: 686
+  name: "Nucului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_687:
+  id: 687
+  name: "Nuferilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_688:
+  id: 688
+  name: "Nădăşel"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_689:
+  id: 689
+  name: "Năsăud"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_690:
+  id: 690
+  name: "Năvodari"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_691:
+  id: 691
+  name: "Oaşului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_692:
+  id: 692
+  name: "Observatorului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_693:
+  id: 693
+  name: "Octav Băncilă"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_694:
+  id: 694
+  name: "Octavian Fodor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_695:
+  id: 695
+  name: "Octavian Goga"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_696:
+  id: 696
+  name: "Octavian Petrovici"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_697:
+  id: 697
+  name: "Octavian Prie"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_698:
+  id: 698
+  name: "Odobeşti"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_699:
+  id: 699
+  name: "Oituz"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_700:
+  id: 700
+  name: "Oleandrului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_701:
+  id: 701
+  name: "Olteniei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_702:
+  id: 702
+  name: "Oltului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_703:
+  id: 703
+  name: "Olăneşti"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_704:
+  id: 704
+  name: "Onisifor Ghibu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_705:
+  id: 705
+  name: "Onixului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_706:
+  id: 706
+  name: "Oradiei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_707:
+  id: 707
+  name: "Oraviţa"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_708:
+  id: 708
+  name: "Orzului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_709:
+  id: 709
+  name: "Orăştiei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_710:
+  id: 710
+  name: "Ospătăriei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_711:
+  id: 711
+  name: "Ostaşilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_712:
+  id: 712
+  name: "Ovidiu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_713:
+  id: 713
+  name: "Oţetului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_714:
+  id: 714
+  name: "Pablo Picasso"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_715:
+  id: 715
+  name: "Pajiştei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_716:
+  id: 716
+  name: "Pakei Lajos"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_717:
+  id: 717
+  name: "Pelaghia Roşu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_718:
+  id: 718
+  name: "Panait Istrati"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_719:
+  id: 719
+  name: "Pandurilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_720:
+  id: 720
+  name: "Panseluţelor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_721:
+  id: 721
+  name: "Papiu Ilarian"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_722:
+  id: 722
+  name: "Paraşutiştilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_723:
+  id: 723
+  name: "Parcul Feroviarilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_724:
+  id: 724
+  name: "Paris"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_725:
+  id: 725
+  name: "Partizanilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_726:
+  id: 726
+  name: "Parâng"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_727:
+  id: 727
+  name: "Pata Rât"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_728:
+  id: 728
+  name: "Patriciu Barbu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_729:
+  id: 729
+  name: "Paul Chinezu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_730:
+  id: 730
+  name: "Paul Ioan"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_731:
+  id: 731
+  name: "Pavel Dan"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_732:
+  id: 732
+  name: "Pavel Roşca"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_733:
+  id: 733
+  name: "Perlei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_734:
+  id: 734
+  name: "Petrache Poienaru"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_735:
+  id: 735
+  name: "Petre Dulfu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_736:
+  id: 736
+  name: "Petre Ispirescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_737:
+  id: 737
+  name: "Petru Creţia"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_738:
+  id: 738
+  name: "Petru Maior"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_739:
+  id: 739
+  name: "Petru P. Meteş"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_740:
+  id: 740
+  name: "Petuniei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_741:
+  id: 741
+  name: "Petőfi Sándor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_742:
+  id: 742
+  name: "Piatra Craiului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_743:
+  id: 743
+  name: "Piersicului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_744:
+  id: 744
+  name: "Piezişă"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_745:
+  id: 745
+  name: "Pintea Viteazu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_746:
+  id: 746
+  name: "Pintenului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_747:
+  id: 747
+  name: "Piteşti"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_748:
+  id: 748
+  name: "Plaiuri"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_749:
+  id: 749
+  name: "Planoarelor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_750:
+  id: 750
+  name: "Plevnei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_751:
+  id: 751
+  name: "Ploieşti"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_752:
+  id: 752
+  name: "Plopilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_753:
+  id: 753
+  name: "Poienarilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_754:
+  id: 754
+  name: "Poieniţei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_755:
+  id: 755
+  name: "Pomet"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_756:
+  id: 756
+  name: "Pompiliu Teodor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_757:
+  id: 757
+  name: "Ponorului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_758:
+  id: 758
+  name: "Porumbeilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_759:
+  id: 759
+  name: "Porumbului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_760:
+  id: 760
+  name: "Porţelanului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_761:
+  id: 761
+  name: "Porţile de Fier"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_762:
+  id: 762
+  name: "Posada"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_763:
+  id: 763
+  name: "Postăvarul"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_764:
+  id: 764
+  name: "Potaissa"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_765:
+  id: 765
+  name: "Povârnişului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_766:
+  id: 766
+  name: "Predeal"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_767:
+  id: 767
+  name: "Prieteniei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_768:
+  id: 768
+  name: "Primăverii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_769:
+  id: 769
+  name: "Pripor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_770:
+  id: 770
+  name: "Prislop"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_771:
+  id: 771
+  name: "Priveliştii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_772:
+  id: 772
+  name: "Privighetorii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_773:
+  id: 773
+  name: "Profesor Nicolae Mărgineanu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_774:
+  id: 774
+  name: "Profesor Tudor Ciortea"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_775:
+  id: 775
+  name: "Progresului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_776:
+  id: 776
+  name: "Prunilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_777:
+  id: 777
+  name: "Puieţilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_778:
+  id: 778
+  name: "Pápai Páriz Ferenc"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_779:
+  id: 779
+  name: "Pârâului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_780:
+  id: 780
+  name: "Pădurii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_781:
+  id: 781
+  name: "Păltiniş"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_782:
+  id: 782
+  name: "Păstorului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_783:
+  id: 783
+  name: "Radu Gyr"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_784:
+  id: 784
+  name: "Rahovei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_785:
+  id: 785
+  name: "Rapsodiei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_786:
+  id: 786
+  name: "Rarău"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_787:
+  id: 787
+  name: "Regele Ferdinand"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_788:
+  id: 788
+  name: "Reghin"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_789:
+  id: 789
+  name: "Regina Maria"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_790:
+  id: 790
+  name: "Remetea"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_791:
+  id: 791
+  name: "Reményik Sándor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_792:
+  id: 792
+  name: "René Descartes"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_793:
+  id: 793
+  name: "Republicii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_794:
+  id: 794
+  name: "Robert Koch"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_795:
+  id: 795
+  name: "Rodnei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_796:
+  id: 796
+  name: "Romaniţei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_797:
+  id: 797
+  name: "Romul Ladea"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_798:
+  id: 798
+  name: "Romulus Vuia"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_799:
+  id: 799
+  name: "Rovine"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_800:
+  id: 800
+  name: "Rozelor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_801:
+  id: 801
+  name: "Rozmarinului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_802:
+  id: 802
+  name: "Roşiori"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_803:
+  id: 803
+  name: "Rubin Patiţia"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_804:
+  id: 804
+  name: "Rubinului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_805:
+  id: 805
+  name: "Rupturii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_806:
+  id: 806
+  name: "Rákoczi Ferenc II"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_807:
+  id: 807
+  name: "Rândunicilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_808:
+  id: 808
+  name: "Râului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_809:
+  id: 809
+  name: "Rădăuţi"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_810:
+  id: 810
+  name: "Răsăritului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_811:
+  id: 811
+  name: "Răvaşului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_812:
+  id: 812
+  name: "Războieni"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_813:
+  id: 813
+  name: "Safirului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_814:
+  id: 814
+  name: "Salcâmului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_815:
+  id: 815
+  name: "Salviei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_816:
+  id: 816
+  name: "Samuil Micu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_817:
+  id: 817
+  name: "Sanatoriului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_818:
+  id: 818
+  name: "Sarmisegetuza"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_819:
+  id: 819
+  name: "Saturn"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_820:
+  id: 820
+  name: "Scorţarilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_821:
+  id: 821
+  name: "Scurtă"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_822:
+  id: 822
+  name: "Sebastian Bornemisa"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_823:
+  id: 823
+  name: "Sebeşului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_824:
+  id: 824
+  name: "Secarei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_825:
+  id: 825
+  name: "Secerătorilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_826:
+  id: 826
+  name: "Semenicului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_827:
+  id: 827
+  name: "Senină"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_828:
+  id: 828
+  name: "Septimiu Albini"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_829:
+  id: 829
+  name: "Septimiu Mureşan"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_830:
+  id: 830
+  name: "Sergiu Celibidache"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_831:
+  id: 831
+  name: "Sextil Puşcariu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_832:
+  id: 832
+  name: "Sibiului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_833:
+  id: 833
+  name: "Sighişoarei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_834:
+  id: 834
+  name: "Sigismund Toduţă"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_835:
+  id: 835
+  name: "Silvaniei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_836:
+  id: 836
+  name: "Silviu Dragomir"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_837:
+  id: 837
+  name: "Simeria"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_838:
+  id: 838
+  name: "Simion Balint"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_839:
+  id: 839
+  name: "Simion Muşat"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_840:
+  id: 840
+  name: "Simion Ştefan"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_841:
+  id: 841
+  name: "Sinaia"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_842:
+  id: 842
+  name: "Sindicatelor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_843:
+  id: 843
+  name: "Siretului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_844:
+  id: 844
+  name: "Sitarilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_845:
+  id: 845
+  name: "Slatina"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_846:
+  id: 846
+  name: "Smaraldului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_847:
+  id: 847
+  name: "Smârdan"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_848:
+  id: 848
+  name: "Soarelui"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_849:
+  id: 849
+  name: "Sobarilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_850:
+  id: 850
+  name: "Someşeni Băi"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_851:
+  id: 851
+  name: "Someşului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_852:
+  id: 852
+  name: "Soporului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_853:
+  id: 853
+  name: "Speranţei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_854:
+  id: 854
+  name: "Spicului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_855:
+  id: 855
+  name: "Spinoasă"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_856:
+  id: 856
+  name: "Spiru Haret"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_857:
+  id: 857
+  name: "Spitalului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_858:
+  id: 858
+  name: "Sportului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_859:
+  id: 859
+  name: "Sputnic"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_860:
+  id: 860
+  name: "Spătarul Milescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_861:
+  id: 861
+  name: "Stejarului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_862:
+  id: 862
+  name: "Steluţei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_863:
+  id: 863
+  name: "Straja"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_864:
+  id: 864
+  name: "Streiului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_865:
+  id: 865
+  name: "Strungarilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_866:
+  id: 866
+  name: "Strâmbă"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_867:
+  id: 867
+  name: "Stînjeneilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_868:
+  id: 868
+  name: "Stănescu Popa"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_869:
+  id: 869
+  name: "Stănişoara"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_870:
+  id: 870
+  name: "Suceava"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_871:
+  id: 871
+  name: "Sunătoarei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_872:
+  id: 872
+  name: "Sânzienelor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_873:
+  id: 873
+  name: "Sălajului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_874:
+  id: 874
+  name: "Sălciilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_875:
+  id: 875
+  name: "Săpătorilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_876:
+  id: 876
+  name: "Taberei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_877:
+  id: 877
+  name: "Tache Ionescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_878:
+  id: 878
+  name: "Tamási Áron"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_879:
+  id: 879
+  name: "Tatra"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_880:
+  id: 880
+  name: "Tecuci"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_881:
+  id: 881
+  name: "Teilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_882:
+  id: 882
+  name: "Teleorman"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_883:
+  id: 883
+  name: "Teo Peter"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_884:
+  id: 884
+  name: "Teodor Mihali"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_885:
+  id: 885
+  name: "Theodor Capidan"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_886:
+  id: 886
+  name: "Theodor Pallady"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_887:
+  id: 887
+  name: "Tiberiu Brediceanu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_888:
+  id: 888
+  name: "Timişoarei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_889:
+  id: 889
+  name: "Timişului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_890:
+  id: 890
+  name: "Tipografiei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_891:
+  id: 891
+  name: "Titu Maiorescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_892:
+  id: 892
+  name: "Toamnei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_893:
+  id: 893
+  name: "Topazului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_894:
+  id: 894
+  name: "Tractoriştilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_895:
+  id: 895
+  name: "Traian"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_896:
+  id: 896
+  name: "Traian Grozăvescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_897:
+  id: 897
+  name: "Traian Vuia"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_898:
+  id: 898
+  name: "Trandafirilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_899:
+  id: 899
+  name: "Transilvania"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_900:
+  id: 900
+  name: "Transilvaniei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_901:
+  id: 901
+  name: "Trascăului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_902:
+  id: 902
+  name: "Triajului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_903:
+  id: 903
+  name: "Tribunu Andreica"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_904:
+  id: 904
+  name: "Tribunul Vlăduţiu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_905:
+  id: 905
+  name: "Trifoiului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_906:
+  id: 906
+  name: "Tristan Tzara"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_907:
+  id: 907
+  name: "Trotuşului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_908:
+  id: 908
+  name: "Trâmbiţaşului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_909:
+  id: 909
+  name: "Tudor Arghezi"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_910:
+  id: 910
+  name: "Tudor Vianu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_911:
+  id: 911
+  name: "Tudor Vladimirescu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_912:
+  id: 912
+  name: "Tufei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_913:
+  id: 913
+  name: "Tulcea"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_914:
+  id: 914
+  name: "Tulgheşului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_915:
+  id: 915
+  name: "Turnu Roşu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_916:
+  id: 916
+  name: "Turnu Severin"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_917:
+  id: 917
+  name: "Turnului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_918:
+  id: 918
+  name: "Turturicii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_919:
+  id: 919
+  name: "Tyukodi Antal"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_920:
+  id: 920
+  name: "Târnavelor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_921:
+  id: 921
+  name: "Tăbăcarilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_922:
+  id: 922
+  name: "Tăietura Turcului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_923:
+  id: 923
+  name: "Tăşnad"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_924:
+  id: 924
+  name: "Uliului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_925:
+  id: 925
+  name: "Ulmului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_926:
+  id: 926
+  name: "Unirii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_927:
+  id: 927
+  name: "Universităţii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_928:
+  id: 928
+  name: "Urcuşului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_929:
+  id: 929
+  name: "Uzinei Electrice"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_930:
+  id: 930
+  name: "Valea Chintăului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_931:
+  id: 931
+  name: "Valea Fânaţelor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_932:
+  id: 932
+  name: "Valea Gârbăului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_933:
+  id: 933
+  name: "Valea Seacă"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_934:
+  id: 934
+  name: "Valeriu Branişte"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_935:
+  id: 935
+  name: "Valter Mărăcineanu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_936:
+  id: 936
+  name: "Vasile Alecsandri"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_937:
+  id: 937
+  name: "Vasile Conta"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_938:
+  id: 938
+  name: "Vasile Cârlova"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_939:
+  id: 939
+  name: "Vasile Goldiş"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_940:
+  id: 940
+  name: "Vasile Lucaciu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_941:
+  id: 941
+  name: "Vasile Lupu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_942:
+  id: 942
+  name: "Vasile Pârvan"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_943:
+  id: 943
+  name: "Vasile Stoica"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_944:
+  id: 944
+  name: "Vasile Velican"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_945:
+  id: 945
+  name: "Vaslui"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_946:
+  id: 946
+  name: "Venus"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_947:
+  id: 947
+  name: "Veseliei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_948:
+  id: 948
+  name: "Victor Babeş"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_949:
+  id: 949
+  name: "Victor Deleu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_950:
+  id: 950
+  name: "Victor Eftimiu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_951:
+  id: 951
+  name: "Victor Felea"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_952:
+  id: 952
+  name: "Victor Hugo"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_953:
+  id: 953
+  name: "Victor Papilian"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_954:
+  id: 954
+  name: "Vidrei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_955:
+  id: 955
+  name: "Viile Dâmbul Rotund"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_956:
+  id: 956
+  name: "Viile Nădăşel"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_957:
+  id: 957
+  name: "Viilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_958:
+  id: 958
+  name: "Viorelelor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_959:
+  id: 959
+  name: "Virgil Fulicea"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_960:
+  id: 960
+  name: "Virgil Oniţiu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_961:
+  id: 961
+  name: "Vişinilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_962:
+  id: 962
+  name: "Vlad Ţepeş"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_963:
+  id: 963
+  name: "Vlădeasa"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_964:
+  id: 964
+  name: "Voevodul Glad"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_965:
+  id: 965
+  name: "Voievodul Gelu"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_966:
+  id: 966
+  name: "Voievodul Menumorut"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_967:
+  id: 967
+  name: "Voineasa"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_968:
+  id: 968
+  name: "Voltaire"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_969:
+  id: 969
+  name: "Voroneţ"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_970:
+  id: 970
+  name: "Vrancea"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_971:
+  id: 971
+  name: "Vrăbiilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_972:
+  id: 972
+  name: "Vulpii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_973:
+  id: 973
+  name: "Vultureni"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_974:
+  id: 974
+  name: "Vulturului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_975:
+  id: 975
+  name: "Vântului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_976:
+  id: 976
+  name: "Vânătorului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_977:
+  id: 977
+  name: "Wolfgang Amadeus Mozart"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_978:
+  id: 978
+  name: "Wolfgang Goethe"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_979:
+  id: 979
+  name: "Zaharia Bârsan"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_980:
+  id: 980
+  name: "Zaharia Carcalechi"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_981:
+  id: 981
+  name: "Zalăului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_982:
+  id: 982
+  name: "Zambilei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_983:
+  id: 983
+  name: "Zarandului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_984:
+  id: 984
+  name: "Zborului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_985:
+  id: 985
+  name: "Zefirului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_986:
+  id: 986
+  name: "Zizinului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_987:
+  id: 987
+  name: "Zorilor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_988:
+  id: 988
+  name: "Zrínyi Miklós"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_989:
+  id: 989
+  name: "Zânelor"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_990:
+  id: 990
+  name: "Émile Zola"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_991:
+  id: 991
+  name: "În Jurul Lacului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_992:
+  id: 992
+  name: "Înfrăţirii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_993:
+  id: 993
+  name: "Între Lacuri"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_994:
+  id: 994
+  name: "Şcolii"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_995:
+  id: 995
+  name: "Şerpuitoare"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_996:
+  id: 996
+  name: "Şesului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_997:
+  id: 997
+  name: "Şimleului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_998:
+  id: 998
+  name: "Şoimului"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_999:
+  id: 999
+  name: "Ştefan Augustin Doinaş"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_1000:
+  id: 1000
+  name: "Ştefan Cicio Pop"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_1001:
+  id: 1001
+  name: "Ştefan Luchian"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_1002:
+  id: 1002
+  name: "Ştefan Ludwig Roth"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_1003:
+  id: 1003
+  name: "Ştefan Meteş"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_1004:
+  id: 1004
+  name: "Ştefan Mora"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_1005:
+  id: 1005
+  name: "Ştefan Octavian Iosif"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_1006:
+  id: 1006
+  name: "Ţebei"
+  prefix: "Strada"
+  short_prefix: "Str."
+
+ Street_1007:
+  id: 1007
+  name: "Ţibleşului"
+  prefix: "Strada"
+  short_prefix: "Str."

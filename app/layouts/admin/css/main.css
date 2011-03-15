@@ -1,0 +1,50 @@
+
+.content-box-header .search-wrap{
+	float:right;
+	margin-top:5px;
+	margin-right:5px;
+	}
+    
+.insert{
+    margin-top:-21px;
+    float:left;
+    }
+    
+    
+th.sortable{
+ 	background:transparent url(../images/sortable.bg.gif) no-repeat 100% 15px;
+	cursor:pointer;
+	}
+th.up{background-image:url(../images/sortable.up.gif) !important;}
+th.down{
+ 	background-image:url(../images/sortable.down.gif) !important;
+	background-position: 100% 20px;	
+	}
+
+
+.i18n-field{}
+.i18n-languages { padding:2px !important; padding-left:8px !important;}
+.i18n-languages li.i18n-btn-wrap{list-style: none; padding:3px !important; background: none !important;}
+.i18n-languages li.current{}
+
+.i18n-textareas{}
+.i18n-textareas .i18n-textarea-wrap{display: none}
+.i18n-textareas .current{ display:block;}
+
+
+.i18n-textarea-field .i18n-languages{float:left;}
+.i18n-textarea-field .i18n-btn-wrap{float:left;}
+
+
+#sch{width:300px;}
+#sch ul{list-style:none;}
+#sch ul li{ background:none;}
+#sch ul li label{}
+#sch ul li label.name{color:#990000;}
+#sch ul li .weekday{position:relative;margin-bottom:10px;}
+#sch ul li .weekday .time{display:block;}
+#sch ul li .weekday .time label{width:40px; display:block;float:left;}
+#sch ul li .weekday .extra{position:absolute;right:0;top:0;line-height:30px;}
+#sch ul li .adv{text-align:right;}
+
+.hidden{display:none;}

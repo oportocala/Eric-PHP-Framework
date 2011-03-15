@@ -1,0 +1,45 @@
+detect_relations: true
+
+Zone:
+ package: geo
+ tableName: geo_zones
+ actAs:
+  Searchable:
+   fields: [name]
+   className: 'Geo%CLASS%Index'
+  Geographical:
+ columns:
+  name: string(255)
+  
+Street:
+ package: geo
+ tableName: geo_streets
+ actAs:
+  Searchable:
+   fields: [name]
+   className: 'Geo%CLASS%Index'
+ columns:
+  name: string(255)
+  prefix:
+   type: string(255)
+   default: Strada
+  zone_id: integer
+ relations:
+  Zone:
+   
+Address:
+ package: geo
+ tableName: geo_addresses
+ actAs:
+  Geographical:
+  I18n:
+   fields: [description]
+ columns:
+  description: string(255)
+  street_id: integer
+  zone_id: integer
+  no: string(15)
+  postcode: int(6)
+ relations:
+  Zone:
+  Street:

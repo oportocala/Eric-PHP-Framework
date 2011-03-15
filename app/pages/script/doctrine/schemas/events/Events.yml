@@ -1,0 +1,62 @@
+Event:
+ package: events
+ tableName: events
+ actAs:
+  Routable:
+    fields: [name]
+  Blameable:
+  SoftDelete:
+  Timestampable:
+  Publishable:
+  NestedSet:
+  I18n:
+   fields: [description]
+  Searchable:
+   fields: [name, description]
+ columns:
+   name: string(255)
+   description: string
+   category_id: integer
+ relations:
+   Category:
+    foreign: id
+    local: category_id
+    class: EventCategory
+
+EventCategory:
+ package: events
+ tableName: events_categories
+ actAs:
+  I18n:
+   fields: [name]
+  NestedSet:
+  Searchable:
+   fields: [name]
+ columns:
+  name: string(255)
+
+EventInstance:
+ package: events
+ tableName: event_instaces
+ actAs:
+  I18n:
+   fields: [description, restriction, discount]
+ columns:
+   event_id: integer
+   place_id: integer
+   date: date
+   time_start: time
+   time_end: time
+   description: string
+   price: float
+   restriction: string
+   discount: string
+ relations:
+   Event:
+    foreign: id
+    local: event_id
+    class: Event
+   Place:
+    foreign: id
+    local: place_id
+    class: Place

@@ -1,0 +1,6 @@
+<?
+
+class Language extends BaseLanguage{
+
+    
+    }

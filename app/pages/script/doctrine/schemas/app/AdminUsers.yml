@@ -1,0 +1,37 @@
+AdminUser:
+ actAs:
+  Authenticatable:
+  Searchable:
+   fields: [username, email]
+   className: 'App%CLASS%Index'
+ package: app/admin
+ tableName: app_admin_users
+ columns:
+  username: 
+   type: string(255)
+   nospace: true
+   minlength: 8
+   unique: true
+   regexp: '/^[a-zA-Z0-9]+$/'
+  password: 
+   type: string(32)
+   notnull: true
+   minlength: 3
+  email: 
+   type: string(255)
+   email: true
+  group_id: integer
+ relations:
+  Group:
+   class: AdminGroups
+   local: group_id
+   foreignAlias: Users
+   
+AdminGroups:
+ package: app/admin
+ tableName: app_admin_groups
+ columns:
+  name: string(255)
+  permissions: object
+ 
+  

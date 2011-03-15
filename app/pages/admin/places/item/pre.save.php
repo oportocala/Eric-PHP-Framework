@@ -1,0 +1,2 @@
+<?
+$item->Contact->delete();

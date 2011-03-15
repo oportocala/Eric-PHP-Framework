@@ -1,0 +1,10 @@
+AdminGroups:
+ Admins: 
+  name: 'Administrators'
+  
+AdminUser:
+ Oportocala:
+  username: 'oportocala'
+  password: '6a3a80040bbda7cce5ff4e72831fb525'
+  email: 'oportocala@gmail.com'
+  Group: Admins

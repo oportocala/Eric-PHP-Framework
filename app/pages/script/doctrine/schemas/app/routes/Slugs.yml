@@ -1,0 +1,31 @@
+RoutesSections:
+ tableName: app_routes_sections
+ package: app/routes
+ columns:
+  name: string(255)
+  foreign_table: string(255)
+  layout: string(255)
+  page: string(255)
+  path: string(255)
+  id_param_name:
+   type: string(255)
+   default: 'id'
+   
+   
+RoutesIndex:
+ tableName: app_routes_index
+ package: app/routes
+ actAs:
+  Searchable:
+   fields: [slug]
+   className: 'App%CLASS%Index'
+ columns:
+  section_id: integer
+  foreign_id: integer
+  slug: 
+   type: string(255)
+   unique: true
+ relations:
+  Section:
+   class: RoutesSections
+   local: section_id
