@@ -1,0 +1,38 @@
+RewriteEngine on
+
+# No SVN:
+	RewriteRule ^(.*/)?\.svn/ - [F,L]
+
+# Shortcuts:
+	# JS libs: /include/js/(internal|external)
+	# jsi - javascript lib internal
+	# jse - javascript lib external
+	RewriteRule ^jsi/(.*)$	app/layouts/!resources/js/internal/$1 [L]
+	RewriteRule ^jse/(.*)$ 	app/layouts/!resources/js/external/$1 [L]
+	# Icons
+	RewriteRule ^icn/(.*)$ 	app/layouts/!resources/images/icons/$1 [L]
+	# Resources
+	RewriteRule ^r/(.*)$ 	app/layouts/!resources/$1 [L]
+	RewriteRule ^layouts/(.*)$ app/layouts/$1 [L]
+	
+# Captcha
+	RewriteRule ^captcha/(.*).jpg$ app/includes/libs/external/securimage/securimage_show.php?sid=$1 [L]
+
+
+
+# Layouts:
+	RewriteRule ^(admin|script|services|sandbox|fbapps|client-area)/(.*)$ app/pages/$1/$2 [L]
+	
+	# Default Layout
+	#RewriteCond %{REQUEST_FILENAME} -d [OR] #comment this on production
+	RewriteCond %{REQUEST_FILENAME} -f [OR] #this should be left in
+	RewriteCond %{ENV:REDIRECT_STATUS} 200
+	RewriteRule .* - [L]
+	RewriteRule ^(.*)$ app/pages/frontend/$1 
+
+	
+# Reouter:
+	RewriteCond %{REQUEST_FILENAME} -f [OR]  
+	RewriteCond %{REQUEST_FILENAME} -d 
+	RewriteRule .* - [L]
+	RewriteRule ^(.*)$ app/router.php?_router_query=%{REQUEST_URI} [QSA]
